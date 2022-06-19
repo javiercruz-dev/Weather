@@ -40,5 +40,3 @@ if (event.key == "Enter") {
     weather.search();
 }
 });
-
-weather.fetchWeather("Denver");
